@@ -108,7 +108,7 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-xs-12 col-sm-4">
-								<h6>Follow Me</h6>
+								<h6>Follow Me: -</h6>
 								<hr />
 								<div class="social">
 									<a href="www.facebook.com">
@@ -129,7 +129,7 @@
 							</div>
 							<div class="col-xs-12 col-sm-4">
 								<div class="contact">
-									<h6>Talk To Me</h6>
+									<h6>Talk To Me: -</h6>
 									<hr />
 									<a href="mailto:dev.martycore.com">
 										<p>e - dev@martycore.com</p>
